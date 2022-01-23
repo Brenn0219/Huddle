@@ -333,7 +333,7 @@ nav {
     }
     
     .container-huddle-footer {
-        padding: 0 25px;
+        padding: 0 2rem;
         margin-top: -7px;
         display: flex;
         flex-direction: column;
@@ -352,4 +352,7 @@ nav {
        justify-content: center;
     }
  
+    .icones-redes-socias {
+        margin-top: 2rem;
+    }
 }
