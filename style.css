@@ -331,8 +331,9 @@ nav {
     .img-container-color {
         height: 250px;
     }
-
+    
     .container-huddle-footer {
+        padding: 0 25px;
         margin-top: -7px;
         display: flex;
         flex-direction: column;
@@ -351,5 +352,4 @@ nav {
        justify-content: center;
     }
  
-    
 }
